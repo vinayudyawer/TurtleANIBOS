@@ -1,7 +1,11 @@
-# Tiwi Island Olive Ridley Turtle Tracks
-Repository to display Olive Ridley Turtle satellite tracks deployed in collaboration with the Tiwi Island Marine Rangers in 2022.
+# Animals as Ocean Observers Tirtle tracks
+Repository to display Olive Ridley and Flatback Turtle satellite tracks deployed in collaboration with the Tiwi Island Marine Rangers and Crocodile Island Rangers in 2022.
 
-This repository is not a live feed of the turtle tracks, but is updated once every week to allow the Tiwi Island Rangers and local stakeholders to keep updated on the movements of the Olive Ridley Turtles they assisted in tracking. Tracks can be found [here](https://vinayudyawer.github.io/TurtleANIBOS/).
+This repository is not a live feed of the turtle tracks, but is updated once every week to allow the Rangers and local stakeholders to keep updated on the movements of the Turtles they assisted in tracking. 
+
+Tracks of Olive Ridley Turtles tagged with the Tiwi Island Marine Rangers can be found [here](https://vinayudyawer.github.io/TurtleANIBOS/).
+
+Tracks of Flatback Turtles tagged with the Crocodile Island Rangers can be found [here](https://vinayudyawer.github.io/TurtleANIBOS/).
 
 
 Author: Vinay Udyawer (v.udyawer@aims.gov.au)
